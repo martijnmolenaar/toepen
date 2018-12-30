@@ -1,0 +1,1858 @@
+
+
+Het edele Toep-spel gaat van start...
+
+
+
+ ############## set #1 ############## 
+
+
+Martijn:
+>> kaarten in hand: SA D10 S7 HA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Wouter:
+>> kaarten in hand: H8 C10 D9 SK << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: nieuwe kaarten
+
+Ralph:
+>> kaarten in hand: HQ DK C8 H7 << 
+[1] accepteer
+[2] controleer 
+>>> Ralph: accepteer
+
+Martijn:
+>> kaarten in hand: SA D10 S7 HA << 
+[1] accepteer
+[2] controleer 
+>>> Martijn: accepteer
+
+nieuwe kaarten voor Wouter
+
+Ralph:
+>> kaarten in hand: HQ DK C8 H7 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Wouter:
+>> kaarten in hand: H10 DQ D7 CA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: SA D10 S7 HA << 
+[1] toep
+[2] SA
+[3] D10
+[4] S7
+[5] HA 
+>>> Martijn: toep!
+
+Wouter:
+>> kaarten in hand: H10 DQ D7 CA << 
+[1] pas
+[2] mee 
+>>> Wouter: mee
+
+Ralph:
+>> kaarten in hand: HQ DK C8 H7 << 
+[1] pas
+[2] mee 
+>>> Ralph: mee
+
+Martijn (aan slag):
+>> kaarten in hand: SA D10 S7 HA << 
+[1] SA
+[2] D10
+[3] S7
+[4] HA 
+>>> Martijn: D10
+
+Wouter:
+>> kaarten in hand: H10 DQ D7 CA << 
+[1] toep
+[2] DQ
+[3] D7 
+>>> Wouter: D7
+
+Ralph:
+>> kaarten in hand: HQ DK C8 H7 << 
+[1] toep
+[2] DK 
+>>> Ralph: DK
+
+Martijn wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: SA S7 HA << 
+[1] SA
+[2] S7
+[3] HA 
+>>> Martijn: S7
+
+Wouter:
+>> kaarten in hand: H10 DQ CA << 
+[1] toep
+[2] H10
+[3] DQ
+[4] CA 
+>>> Wouter: CA
+
+Ralph:
+>> kaarten in hand: HQ C8 H7 << 
+[1] toep
+[2] HQ
+[3] C8
+[4] H7 
+>>> Ralph: HQ
+
+Martijn wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: SA HA << 
+[1] SA
+[2] HA 
+>>> Martijn: HA
+
+Wouter:
+>> kaarten in hand: H10 DQ << 
+[1] toep
+[2] H10 
+>>> Wouter: H10
+
+Ralph:
+>> kaarten in hand: C8 H7 << 
+[1] toep
+[2] H7 
+>>> Ralph: toep!
+
+Martijn (aan slag):
+>> kaarten in hand: SA << 
+[1] pas
+[2] mee 
+>>> Martijn: pas
+
+Wouter:
+>> kaarten in hand: DQ << 
+[1] pas
+[2] mee 
+>>> Wouter: pas
+
+Ralph:
+>> kaarten in hand: C8 H7 << 
+[1] BLANK
+[2] H7 
+>>> Ralph: BLANK
+
+Ralph wins
+
+Martijn: 2 points
+Wouter: 2 points
+Ralph: 0 points
+
+
+ ############## set #2 ############## 
+
+
+Ralph:
+>> kaarten in hand: CK HQ H8 S7 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Martijn:
+>> kaarten in hand: S9 CJ S10 D8 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Wouter:
+>> kaarten in hand: HA HJ DJ SK << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: nieuwe kaarten
+
+Ralph:
+>> kaarten in hand: CK HQ H8 S7 << 
+[1] accepteer
+[2] controleer 
+>>> Ralph: accepteer
+
+Martijn:
+>> kaarten in hand: S9 CJ S10 D8 << 
+[1] accepteer
+[2] controleer 
+>>> Martijn: accepteer
+
+nieuwe kaarten voor Wouter
+
+Wouter:
+>> kaarten in hand: D7 DQ C7 H7 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: CK HQ H8 S7 << 
+[1] toep
+[2] CK
+[3] HQ
+[4] H8
+[5] S7 
+>>> Ralph: H8
+
+Martijn:
+>> kaarten in hand: S9 CJ S10 D8 << 
+[1] toep
+[2] S9
+[3] CJ
+[4] S10
+[5] D8 
+>>> Martijn: toep!
+
+Wouter:
+>> kaarten in hand: D7 DQ C7 H7 << 
+[1] pas
+[2] mee 
+>>> Wouter: mee
+
+Ralph (aan slag):
+>> kaarten in hand: CK HQ S7 << 
+[1] pas
+[2] mee 
+>>> Ralph: pas
+
+Martijn:
+>> kaarten in hand: S9 CJ S10 D8 << 
+[1] S9
+[2] CJ
+[3] S10
+[4] D8 
+>>> Martijn: S9
+
+Wouter:
+>> kaarten in hand: D7 DQ C7 H7 << 
+[1] toep
+[2] H7 
+>>> Wouter: toep!
+
+Martijn:
+>> kaarten in hand: CJ S10 D8 << 
+[1] pas
+[2] mee 
+>>> Martijn: pas
+
+Wouter:
+>> kaarten in hand: D7 DQ C7 H7 << 
+[1] BLANK
+[2] H7 
+>>> Wouter: BLANK
+
+Wouter wins
+
+Martijn: 3 points
+Wouter: 2 points
+Ralph: 1 points
+
+
+ ############## set #3 ############## 
+
+
+Wouter:
+>> kaarten in hand: S8 DQ H9 HJ << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+Ralph:
+>> kaarten in hand: D7 CJ DK SA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: nieuwe kaarten
+
+Martijn:
+>> kaarten in hand: SJ DA C10 D8 << 
+[1] accepteer
+[2] controleer 
+>>> Martijn: accepteer
+
+Wouter:
+>> kaarten in hand: S8 DQ H9 HJ << 
+[1] accepteer
+[2] controleer 
+>>> Wouter: accepteer
+
+nieuwe kaarten voor Ralph
+
+Martijn:
+>> kaarten in hand: SJ DA C10 D8 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Ralph:
+>> kaarten in hand: H10 S9 H8 SQ << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: S8 DQ H9 HJ << 
+[1] toep
+[2] S8
+[3] DQ
+[4] H9
+[5] HJ 
+>>> Wouter: S8
+
+Ralph:
+>> kaarten in hand: H10 S9 H8 SQ << 
+[1] toep
+[2] S9
+[3] SQ 
+>>> Ralph: S9
+
+Martijn:
+>> kaarten in hand: SJ DA C10 D8 << 
+[1] toep
+[2] SJ 
+>>> Martijn: SJ
+
+Ralph wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: H10 H8 SQ << 
+[1] toep
+[2] H10
+[3] H8
+[4] SQ 
+>>> Ralph: H8
+
+Martijn:
+>> kaarten in hand: DA C10 D8 << 
+[1] toep
+[2] DA
+[3] C10
+[4] D8 
+>>> Martijn: C10
+
+Wouter:
+>> kaarten in hand: DQ H9 HJ << 
+[1] toep
+[2] H9
+[3] HJ 
+>>> Wouter: HJ
+
+Ralph wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: H10 SQ << 
+[1] toep
+[2] H10
+[3] SQ 
+>>> Ralph: H10
+
+Martijn:
+>> kaarten in hand: DA D8 << 
+[1] toep
+[2] DA
+[3] D8 
+>>> Martijn: toep!
+
+Wouter:
+>> kaarten in hand: DQ H9 << 
+[1] pas
+[2] mee 
+>>> Wouter: mee
+
+Ralph (aan slag):
+>> kaarten in hand: SQ << 
+[1] pas
+[2] mee 
+>>> Ralph: mee
+
+Martijn:
+>> kaarten in hand: DA D8 << 
+[1] DA
+[2] D8 
+>>> Martijn: D8
+
+Wouter:
+>> kaarten in hand: DQ H9 << 
+[1] toep
+[2] H9 
+>>> Wouter: H9
+
+Ralph wins
+
+
+ -------------- slag #4 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: SQ << 
+[1] toep
+[2] SQ 
+>>> Ralph: SQ
+
+Martijn:
+>> kaarten in hand: DA << 
+[1] DA 
+>>> Martijn: DA
+
+Wouter:
+>> kaarten in hand: DQ << 
+[1] toep
+[2] DQ 
+>>> Wouter: DQ
+
+Ralph wins
+
+Martijn: 4 points
+Wouter: 4 points
+Ralph: 1 points
+
+
+ ############## set #4 ############## 
+
+
+Ralph:
+>> kaarten in hand: H10 SJ CQ HA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Martijn:
+>> kaarten in hand: HK CK D10 S7 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Wouter:
+>> kaarten in hand: DQ D8 H7 S9 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: H10 SJ CQ HA << 
+[1] toep
+[2] H10
+[3] SJ
+[4] CQ
+[5] HA 
+>>> Ralph: HA
+
+Martijn:
+>> kaarten in hand: HK CK D10 S7 << 
+[1] toep
+[2] HK 
+>>> Martijn: HK
+
+Wouter:
+>> kaarten in hand: DQ D8 H7 S9 << 
+[1] toep
+[2] H7 
+>>> Wouter: H7
+
+Wouter wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: DQ D8 S9 << 
+[1] toep
+[2] DQ
+[3] D8
+[4] S9 
+>>> Wouter: S9
+
+Ralph:
+>> kaarten in hand: H10 SJ CQ << 
+[1] toep
+[2] SJ 
+>>> Ralph: SJ
+
+Martijn:
+>> kaarten in hand: CK D10 S7 << 
+[1] toep
+[2] S7 
+>>> Martijn: S7
+
+Wouter wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: DQ D8 << 
+[1] toep
+[2] DQ
+[3] D8 
+>>> Wouter: D8
+
+Ralph:
+>> kaarten in hand: H10 CQ << 
+[1] toep
+[2] H10
+[3] CQ 
+>>> Ralph: toep!
+
+Martijn:
+>> kaarten in hand: CK D10 << 
+[1] pas
+[2] mee 
+>>> Martijn: mee
+
+Wouter (aan slag):
+>> kaarten in hand: DQ << 
+[1] pas
+[2] mee 
+>>> Wouter: pas
+
+Ralph:
+>> kaarten in hand: H10 CQ << 
+[1] H10
+[2] CQ 
+>>> Ralph: CQ
+
+Martijn:
+>> kaarten in hand: CK D10 << 
+[1] toep
+[2] D10 
+>>> Martijn: D10
+
+Martijn wins
+
+
+ -------------- slag #4 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: CK << 
+[1] toep
+[2] CK 
+>>> Martijn: toep!
+
+Ralph:
+>> kaarten in hand: H10 << 
+[1] pas
+[2] mee 
+>>> Ralph: mee
+
+Martijn (aan slag):
+>> kaarten in hand: CK << 
+[1] CK 
+>>> Martijn: CK
+
+Ralph:
+>> kaarten in hand: H10 << 
+[1] toep
+[2] H10 
+>>> Ralph: H10
+
+Martijn wins
+
+Martijn: 4 points
+Wouter: 5 points
+Ralph: 4 points
+
+
+ ############## set #5 ############## 
+
+
+Martijn:
+>> kaarten in hand: H7 SJ C9 H8 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Wouter:
+>> kaarten in hand: CJ SQ CK S9 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+Ralph:
+>> kaarten in hand: H10 D10 C7 SK << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: H7 SJ C9 H8 << 
+[1] toep
+[2] H7
+[3] SJ
+[4] C9
+[5] H8 
+>>> Martijn: C9
+
+Wouter:
+>> kaarten in hand: CJ SQ CK S9 << 
+[1] toep
+[2] CJ
+[3] CK 
+>>> Wouter: CK
+
+Ralph:
+>> kaarten in hand: H10 D10 C7 SK << 
+[1] toep
+[2] C7 
+>>> Ralph: C7
+
+Martijn wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: H7 SJ H8 << 
+[1] toep
+[2] H7
+[3] SJ
+[4] H8 
+>>> Martijn: H8
+
+Wouter:
+>> kaarten in hand: CJ SQ S9 << 
+[1] toep
+[2] CJ
+[3] SQ
+[4] S9 
+>>> Wouter: S9
+
+Ralph:
+>> kaarten in hand: H10 D10 SK << 
+[1] toep
+[2] H10 
+>>> Ralph: H10
+
+Ralph wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: D10 SK << 
+[1] toep
+[2] D10
+[3] SK 
+>>> Ralph: toep!
+
+Martijn:
+>> kaarten in hand: H7 SJ << 
+[1] pas
+[2] mee 
+>>> Martijn: pas
+
+Wouter:
+>> kaarten in hand: CJ SQ << 
+[1] pas
+[2] mee 
+>>> Wouter: pas
+
+Ralph (aan slag):
+>> kaarten in hand: D10 SK << 
+[1] BLANK
+[2] D10
+[3] SK 
+>>> Ralph: BLANK
+
+Ralph wins
+
+Martijn: 5 points
+Wouter: 5 points
+Ralph: 4 points
+
+
+ ############## set #6 ############## 
+
+
+Ralph:
+>> kaarten in hand: SK C8 H10 HA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Martijn:
+>> kaarten in hand: HK SA S7 D10 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: nieuwe kaarten
+
+Wouter:
+>> kaarten in hand: D9 DQ HJ H9 << 
+[1] accepteer
+[2] controleer 
+>>> Wouter: accepteer
+
+Ralph:
+>> kaarten in hand: SK C8 H10 HA << 
+[1] accepteer
+[2] controleer 
+>>> Ralph: accepteer
+
+nieuwe kaarten voor Martijn
+
+Wouter:
+>> kaarten in hand: D9 DQ HJ H9 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+Martijn:
+>> kaarten in hand: SJ D8 CQ S8 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: SK C8 H10 HA << 
+[1] toep
+[2] SK
+[3] C8
+[4] H10
+[5] HA 
+>>> Ralph: SK
+
+Martijn:
+>> kaarten in hand: SJ D8 CQ S8 << 
+[1] toep
+[2] SJ
+[3] S8 
+>>> Martijn: SJ
+
+Wouter:
+>> kaarten in hand: D9 DQ HJ H9 << 
+[1] toep
+[2] D9
+[3] DQ
+[4] HJ
+[5] H9 
+>>> Wouter: DQ
+
+Ralph wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: C8 H10 HA << 
+[1] toep
+[2] C8
+[3] H10
+[4] HA 
+>>> Ralph: HA
+
+Martijn:
+>> kaarten in hand: D8 CQ S8 << 
+[1] toep
+[2] D8
+[3] CQ
+[4] S8 
+>>> Martijn: D8
+
+Wouter:
+>> kaarten in hand: D9 HJ H9 << 
+[1] toep
+[2] HJ
+[3] H9 
+>>> Wouter: HJ
+
+Ralph wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: C8 H10 << 
+[1] toep
+[2] C8
+[3] H10 
+>>> Ralph: toep!
+
+Martijn:
+>> kaarten in hand: CQ S8 << 
+[1] pas
+[2] mee 
+>>> Martijn: mee
+
+Wouter:
+>> kaarten in hand: D9 H9 << 
+[1] pas
+[2] mee 
+>>> Wouter: pas
+
+Ralph (aan slag):
+>> kaarten in hand: C8 H10 << 
+[1] C8
+[2] H10 
+>>> Ralph: C8
+
+Martijn:
+>> kaarten in hand: CQ S8 << 
+[1] toep
+[2] CQ 
+>>> Martijn: CQ
+
+Ralph wins
+
+
+ -------------- slag #4 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: H10 << 
+[1] H10 
+>>> Ralph: H10
+
+Martijn:
+>> kaarten in hand: S8 << 
+[1] toep
+[2] S8 
+>>> Martijn: toep!
+
+Ralph (aan slag):
+>> kaarten in hand:  << 
+[1] pas
+[2] mee 
+>>> Ralph: pas
+
+Martijn:
+>> kaarten in hand: S8 << 
+[1] BLANK
+[2] S8 
+>>> Martijn: BLANK
+
+Martijn wins
+
+Martijn: 5 points
+Wouter: 5 points
+Ralph: 6 points
+
+
+ ############## set #7 ############## 
+
+
+Martijn:
+>> kaarten in hand: D8 DK CA SQ << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Wouter:
+>> kaarten in hand: HQ H7 H10 HJ << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+Ralph:
+>> kaarten in hand: SJ HA SA S8 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: D8 DK CA SQ << 
+[1] toep
+[2] D8
+[3] DK
+[4] CA
+[5] SQ 
+>>> Martijn: DK
+
+Wouter:
+>> kaarten in hand: HQ H7 H10 HJ << 
+[1] toep
+[2] HQ
+[3] H7
+[4] H10
+[5] HJ 
+>>> Wouter: HQ
+
+Ralph:
+>> kaarten in hand: SJ HA SA S8 << 
+[1] toep
+[2] SJ
+[3] HA
+[4] SA
+[5] S8 
+>>> Ralph: HA
+
+Martijn wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: D8 CA SQ << 
+[1] toep
+[2] D8
+[3] CA
+[4] SQ 
+>>> Martijn: SQ
+
+Wouter:
+>> kaarten in hand: H7 H10 HJ << 
+[1] toep
+[2] H7
+[3] H10
+[4] HJ 
+>>> Wouter: H7
+
+Ralph:
+>> kaarten in hand: SJ SA S8 << 
+[1] toep
+[2] SJ
+[3] SA
+[4] S8 
+>>> Ralph: S8
+
+Ralph wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: SJ SA << 
+[1] toep
+[2] SJ
+[3] SA 
+>>> Ralph: SJ
+
+Martijn:
+>> kaarten in hand: D8 CA << 
+[1] toep
+[2] D8
+[3] CA 
+>>> Martijn: D8
+
+Wouter:
+>> kaarten in hand: H10 HJ << 
+[1] toep
+[2] H10
+[3] HJ 
+>>> Wouter: toep!
+
+Ralph (aan slag):
+>> kaarten in hand: SA << 
+[1] pas
+[2] mee 
+>>> Ralph: pas
+
+Martijn:
+>> kaarten in hand: CA << 
+[1] pas
+[2] mee 
+>>> Martijn: pas
+
+Wouter:
+>> kaarten in hand: H10 HJ << 
+[1] BLANK
+[2] H10
+[3] HJ 
+>>> Wouter: BLANK
+
+Wouter wins
+
+Martijn: 6 points
+Wouter: 5 points
+Ralph: 6 points
+
+
+ ############## set #8 ############## 
+
+
+Wouter:
+>> kaarten in hand: S7 DQ HK CJ << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: nieuwe kaarten
+
+Ralph:
+>> kaarten in hand: HA CQ H9 C8 << 
+[1] accepteer
+[2] controleer 
+>>> Ralph: accepteer
+
+Martijn:
+>> kaarten in hand: DK H8 S10 DA << 
+[1] accepteer
+[2] controleer 
+>>> Martijn: accepteer
+
+nieuwe kaarten voor Wouter
+
+Ralph:
+>> kaarten in hand: HA CQ H9 C8 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Martijn:
+>> kaarten in hand: DK H8 S10 DA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Wouter:
+>> kaarten in hand: S8 C10 D9 S9 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: S8 C10 D9 S9 << 
+[1] toep
+[2] S8
+[3] C10
+[4] D9
+[5] S9 
+>>> Wouter: C10
+
+Ralph:
+>> kaarten in hand: HA CQ H9 C8 << 
+[1] toep
+[2] CQ
+[3] C8 
+>>> Ralph: C8
+
+Martijn:
+>> kaarten in hand: DK H8 S10 DA << 
+[1] toep
+[2] DK
+[3] H8
+[4] S10
+[5] DA 
+>>> Martijn: H8
+
+Wouter wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: S8 D9 S9 << 
+[1] toep
+[2] S8
+[3] D9
+[4] S9 
+>>> Wouter: S9
+
+Ralph:
+>> kaarten in hand: HA CQ H9 << 
+[1] toep
+[2] HA
+[3] CQ
+[4] H9 
+>>> Ralph: H9
+
+Martijn:
+>> kaarten in hand: DK S10 DA << 
+[1] toep
+[2] S10 
+>>> Martijn: toep!
+
+Wouter (aan slag):
+>> kaarten in hand: S8 D9 << 
+[1] pas
+[2] mee 
+>>> Wouter: mee
+
+Ralph:
+>> kaarten in hand: HA CQ << 
+[1] pas
+[2] mee 
+>>> Ralph: mee
+
+Martijn:
+>> kaarten in hand: DK S10 DA << 
+[1] S10 
+>>> Martijn: S10
+
+Martijn wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: DK DA << 
+[1] DK
+[2] DA 
+>>> Martijn: DA
+
+Wouter:
+>> kaarten in hand: S8 D9 << 
+[1] toep
+[2] D9 
+>>> Wouter: toep!
+
+Ralph:
+>> kaarten in hand: HA CQ << 
+[1] pas
+[2] mee 
+>>> Ralph: pas
+
+Martijn (aan slag):
+>> kaarten in hand: DK << 
+[1] pas
+[2] mee 
+>>> Martijn: pas
+
+Wouter:
+>> kaarten in hand: S8 D9 << 
+[1] BLANK
+[2] D9 
+>>> Wouter: BLANK
+
+Wouter wins
+
+Martijn: 7 points
+Wouter: 5 points
+Ralph: 7 points
+
+
+ ############## set #9 ############## 
+
+
+Wouter:
+>> kaarten in hand: D8 SK H8 S7 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+Ralph:
+>> kaarten in hand: DK DQ S8 D7 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Martijn:
+>> kaarten in hand: SA D9 H10 CA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: nieuwe kaarten
+
+Wouter:
+>> kaarten in hand: D8 SK H8 S7 << 
+[1] accepteer
+[2] controleer 
+>>> Wouter: accepteer
+
+Ralph:
+>> kaarten in hand: DK DQ S8 D7 << 
+[1] accepteer
+[2] controleer 
+>>> Ralph: accepteer
+
+nieuwe kaarten voor Martijn
+
+Martijn:
+>> kaarten in hand: SJ C8 HQ S10 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: D8 SK H8 S7 << 
+[1] toep
+[2] D8
+[3] SK
+[4] H8
+[5] S7 
+>>> Wouter: S7
+
+Ralph:
+>> kaarten in hand: DK DQ S8 D7 << 
+[1] toep
+[2] S8 
+>>> Ralph: S8
+
+Martijn:
+>> kaarten in hand: SJ C8 HQ S10 << 
+[1] toep
+[2] SJ
+[3] S10 
+>>> Martijn: SJ
+
+Ralph wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: DK DQ D7 << 
+[1] toep
+[2] DK
+[3] DQ
+[4] D7 
+>>> Ralph: DK
+
+Martijn:
+>> kaarten in hand: C8 HQ S10 << 
+[1] toep
+[2] C8
+[3] HQ
+[4] S10 
+>>> Martijn: C8
+
+Wouter:
+>> kaarten in hand: D8 SK H8 << 
+[1] toep
+[2] D8 
+>>> Wouter: D8
+
+Wouter wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: SK H8 << 
+[1] toep
+[2] SK
+[3] H8 
+>>> Wouter: SK
+
+Ralph:
+>> kaarten in hand: DQ D7 << 
+[1] toep
+[2] DQ
+[3] D7 
+>>> Ralph: toep!
+
+Martijn:
+>> kaarten in hand: HQ S10 << 
+[1] pas
+[2] mee 
+>>> Martijn: mee
+
+Wouter (aan slag):
+>> kaarten in hand: H8 << 
+[1] pas
+[2] mee 
+>>> Wouter: pas
+
+Ralph:
+>> kaarten in hand: DQ D7 << 
+[1] DQ
+[2] D7 
+>>> Ralph: D7
+
+Martijn:
+>> kaarten in hand: HQ S10 << 
+[1] toep
+[2] S10 
+>>> Martijn: S10
+
+Martijn wins
+
+
+ -------------- slag #4 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: HQ << 
+[1] toep
+[2] HQ 
+>>> Martijn: toep!
+
+Ralph:
+>> kaarten in hand: DQ << 
+[1] pas
+[2] mee 
+>>> Ralph: mee
+
+Martijn (aan slag):
+>> kaarten in hand: HQ << 
+[1] HQ 
+>>> Martijn: HQ
+
+Ralph:
+>> kaarten in hand: DQ << 
+[1] toep
+[2] DQ 
+>>> Ralph: toep!
+
+Martijn (aan slag):
+>> kaarten in hand:  << 
+[1] pas
+[2] mee 
+>>> Martijn: mee
+
+Ralph:
+>> kaarten in hand: DQ << 
+[1] DQ 
+>>> Ralph: DQ
+
+Martijn wins
+
+Martijn: 7 points
+Wouter: 6 points
+Ralph: 10 points
+
+
+ ############## set #10 ############## 
+
+
+Martijn:
+>> kaarten in hand: H8 SQ S8 CK << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Wouter:
+>> kaarten in hand: HK SK SJ DA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: nieuwe kaarten
+
+Ralph:
+>> kaarten in hand: DK D8 HJ H10 << 
+[1] accepteer
+[2] controleer 
+>>> Ralph: accepteer
+
+Martijn:
+>> kaarten in hand: H8 SQ S8 CK << 
+[1] accepteer
+[2] controleer 
+>>> Martijn: accepteer
+
+nieuwe kaarten voor Wouter
+
+Ralph:
+>> kaarten in hand: DK D8 HJ H10 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Wouter:
+>> kaarten in hand: C8 D9 DJ DQ << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Martijn (aan slag):
+>> kaarten in hand: H8 SQ S8 CK << 
+[1] toep
+[2] H8
+[3] SQ
+[4] S8
+[5] CK 
+>>> Martijn: CK
+
+Wouter:
+>> kaarten in hand: C8 D9 DJ DQ << 
+[1] toep
+[2] C8 
+>>> Wouter: C8
+
+Ralph:
+>> kaarten in hand: DK D8 HJ H10 << 
+[1] toep
+[2] DK
+[3] D8
+[4] HJ
+[5] H10 
+>>> Ralph: H10
+
+Wouter wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: D9 DJ DQ << 
+[1] toep
+[2] D9
+[3] DJ
+[4] DQ 
+>>> Wouter: D9
+
+Ralph:
+>> kaarten in hand: DK D8 HJ << 
+[1] toep
+[2] DK
+[3] D8 
+>>> Ralph: D8
+
+Martijn:
+>> kaarten in hand: H8 SQ S8 << 
+[1] toep
+[2] H8
+[3] SQ
+[4] S8 
+>>> Martijn: H8
+
+Wouter wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: DJ DQ << 
+[1] toep
+[2] DJ
+[3] DQ 
+>>> Wouter: toep!
+
+Ralph:
+>> kaarten in hand: DK HJ << 
+[1] pas
+[2] mee 
+>>> Ralph: mee
+
+Martijn:
+>> kaarten in hand: SQ S8 << 
+[1] pas
+[2] mee 
+>>> Martijn: mee
+
+Wouter (aan slag):
+>> kaarten in hand: DJ DQ << 
+[1] DJ
+[2] DQ 
+>>> Wouter: DJ
+
+Ralph:
+>> kaarten in hand: DK HJ << 
+[1] toep
+[2] DK 
+>>> Ralph: DK
+
+Martijn:
+>> kaarten in hand: SQ S8 << 
+[1] toep
+[2] SQ
+[3] S8 
+>>> Martijn: SQ
+
+Ralph wins
+
+
+ -------------- slag #4 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: HJ << 
+[1] toep
+[2] HJ 
+>>> Ralph: HJ
+
+Martijn:
+>> kaarten in hand: S8 << 
+[1] toep
+[2] S8 
+>>> Martijn: toep!
+
+Wouter:
+>> kaarten in hand: DQ << 
+[1] pas
+[2] mee 
+>>> Wouter: mee
+
+Ralph (aan slag):
+>> kaarten in hand:  << 
+[1] pas
+[2] mee 
+>>> Ralph: pas
+
+Martijn:
+>> kaarten in hand: S8 << 
+[1] S8 
+>>> Martijn: S8
+
+Wouter:
+>> kaarten in hand: DQ << 
+[1] toep
+[2] DQ 
+>>> Wouter: toep!
+
+Martijn:
+>> kaarten in hand:  << 
+[1] pas
+[2] mee 
+>>> Martijn: mee
+
+Wouter:
+>> kaarten in hand: DQ << 
+[1] DQ 
+>>> Wouter: DQ
+
+Ralph wins
+
+speciale situatie: speler wint slag maar is gepast >>> speler speelt weer mee...
+Martijn: 11 points
+Wouter: 9 points
+Ralph: 10 points
+
+
+ ############## set #11 ############## 
+
+
+Ralph:
+>> kaarten in hand: C7 S10 S9 DK << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Martijn:
+>> kaarten in hand: HJ HQ S8 SA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Martijn: speel
+
+Wouter:
+>> kaarten in hand: DQ D7 SJ H9 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: C7 S10 S9 DK << 
+[1] toep
+[2] C7
+[3] S10
+[4] S9
+[5] DK 
+>>> Ralph: S10
+
+Martijn:
+>> kaarten in hand: HJ HQ S8 SA << 
+[1] toep
+[2] S8
+[3] SA 
+>>> Martijn: SA
+
+Wouter:
+>> kaarten in hand: DQ D7 SJ H9 << 
+[1] toep
+[2] SJ 
+>>> Wouter: SJ
+
+Ralph wins
+
+
+ -------------- slag #2 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: C7 S9 DK << 
+[1] toep
+[2] C7
+[3] S9
+[4] DK 
+>>> Ralph: S9
+
+Martijn:
+>> kaarten in hand: HJ HQ S8 << 
+[1] toep
+[2] S8 
+>>> Martijn: S8
+
+Wouter:
+>> kaarten in hand: DQ D7 H9 << 
+[1] toep
+[2] DQ
+[3] D7
+[4] H9 
+>>> Wouter: DQ
+
+Ralph wins
+
+
+ -------------- slag #3 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: C7 DK << 
+[1] toep
+[2] C7
+[3] DK 
+>>> Ralph: DK
+
+Martijn:
+>> kaarten in hand: HJ HQ << 
+[1] toep
+[2] HJ
+[3] HQ 
+>>> Martijn: toep!
+
+Wouter:
+>> kaarten in hand: D7 H9 << 
+[1] pas
+[2] mee 
+>>> Wouter: mee
+
+Ralph (aan slag):
+>> kaarten in hand: C7 << 
+[1] pas
+[2] mee 
+>>> Ralph: mee
+
+Martijn:
+>> kaarten in hand: HJ HQ << 
+[1] HJ
+[2] HQ 
+>>> Martijn: HJ
+
+Wouter:
+>> kaarten in hand: D7 H9 << 
+[1] toep
+[2] D7 
+>>> Wouter: toep!
+
+Ralph (aan slag):
+>> kaarten in hand: C7 << 
+[1] pas
+[2] mee 
+>>> Ralph: mee
+
+Martijn:
+>> kaarten in hand: HQ << 
+[1] pas
+[2] mee 
+>>> Martijn: mee
+
+Wouter:
+>> kaarten in hand: D7 H9 << 
+[1] D7 
+>>> Wouter: D7
+
+Wouter wins
+
+
+ -------------- slag #4 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: H9 << 
+[1] H9 
+>>> Wouter: H9
+
+Ralph:
+>> kaarten in hand: C7 << 
+[1] toep
+[2] C7 
+>>> Ralph: toep!
+
+Martijn:
+>> kaarten in hand: HQ << 
+[1] pas
+[2] mee 
+>>> Martijn: mee
+
+Wouter (aan slag):
+>> kaarten in hand:  << 
+[1] pas
+[2] mee 
+>>> Wouter: mee
+
+Ralph:
+>> kaarten in hand: C7 << 
+[1] C7 
+>>> Ralph: C7
+
+Martijn:
+>> kaarten in hand: HQ << 
+[1] toep
+[2] HQ 
+>>> Martijn: HQ
+
+Wouter wins
+
+Martijn: 15 points (dead)
+Wouter: 9 points
+Ralph: 14 points
+
+
+ ############## set #12 ############## 
+
+
+Wouter:
+>> kaarten in hand: HK D9 H7 DA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+Ralph:
+>> kaarten in hand: CQ C7 D10 HJ << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Wouter (aan slag):
+>> kaarten in hand: HK D9 H7 DA << 
+[1] toep
+[2] HK
+[3] D9
+[4] H7
+[5] DA 
+>>> Wouter: H7
+
+Ralph:
+>> kaarten in hand: CQ C7 D10 HJ << 
+[1] toep
+[2] HJ 
+>>> Ralph: toep!
+
+Wouter (aan slag):
+>> kaarten in hand: HK D9 DA << 
+[1] pas
+[2] mee 
+>>> Wouter: pas
+
+Ralph:
+>> kaarten in hand: CQ C7 D10 HJ << 
+[1] HJ 
+>>> Ralph: HJ
+
+Ralph wins
+
+Martijn: 15 points (dead)
+Wouter: 10 points
+Ralph: 14 points
+
+
+ ############## set #13 ############## 
+
+
+Ralph:
+>> kaarten in hand: SK S10 C10 CA << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Ralph: speel
+
+Wouter:
+>> kaarten in hand: SQ HJ SA C9 << 
+[1] nieuwe kaarten
+[2] speel 
+>>> Wouter: speel
+
+
+ -------------- slag #1 -------------- 
+
+
+Ralph (aan slag):
+>> kaarten in hand: SK S10 C10 CA << 
+[1] toep
+[2] SK
+[3] S10
+[4] C10
+[5] CA 
+>>> Ralph: SK
+
+Wouter:
+>> kaarten in hand: SQ HJ SA C9 << 
+[1] toep
+[2] SQ
+[3] SA 
+>>> Wouter: toep!
+
+Ralph (aan slag):
+>> kaarten in hand: S10 C10 CA << 
+[1] pas
+[2] mee 
+>>> Ralph: pas
+
+Wouter:
+>> kaarten in hand: SQ HJ SA C9 << 
+[1] SQ
+[2] SA 
+>>> Wouter: SQ
+
+Wouter wins
+
+Martijn: 15 points (dead)
+Wouter: 10 points
+Ralph: 15 points (dead)
+
+
+ -----> game won by Wouter
