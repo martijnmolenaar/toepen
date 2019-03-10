@@ -2,7 +2,15 @@
 
 ### installation and running
 
-Install R via [CRAN](https://cran.r-project.org/)
+Install R via [CRAN](https://cran.r-project.org/).
+
+Make sure the R-library `jsonlite` is installed:
+
+```
+R
+install.packages("jsonlite")
+q()
+```
 
 Run `toepen.r` in via terminal:
 
@@ -39,5 +47,5 @@ This file is formatted in JSON-style and contains info about the available turn-
 ```  
 
 The called program should return the same file, with `choices` set to the proposed gameplay choice. 
-An example program (`randomAI.r`) is added.
+As an example program, `randomAI.r` was is added to illustrate this.
 
