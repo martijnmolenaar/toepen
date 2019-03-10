@@ -50,15 +50,21 @@ This file is formatted in JSON-style and contains info about the available turn-
 The called program should return the same file, with `choices` set to the proposed gameplay choice. 
 As an example program, `randomAI.r` was added to illustrate this.
 
-full example of `player1.txt`:
+### full example of `player1.txt`:
 
 ```
 {
   "choices": ["nieuwe kaarten", "speel"],
+```
+choices provided to the player for the next turn
+```
   "values": ["J", "Q", "K", "A", "7", "8", "9", "10"],
   "suits": ["D", "C", "H", "S"],
   "players": 3,
   "player_names": ["Martijn", "Wouter", "Ralph"],
+```
+general information about the game: possible values and suits, amount of players and player_names
+```
   "player_points": {
     "Martijn": {
       "points": 0,
@@ -76,7 +82,13 @@ full example of `player1.txt`:
       "dead": 0
     }
   },
+  ```
+Current points per player, dealer status (1 = dealer, 0 = no dealer), active status (dead = 1 or dead = 0).
+```
   "last_toep_player": 0,
+```
+Player integer that last 'toep-ed'. 
+```
   "player_cards": {
     "Martijn": {
       "play_for_points": 1,
@@ -122,6 +134,9 @@ full example of `player1.txt`:
       "play_with_this_hand": 1
     }
   },
+  ```
+Some book-keeping for player statuses. 'Wouter' is the current player, and contains more info: current card deck and whether those cards are already played.
+```
   "playing_order": [1, 2, 3],
   "round": {
     "Martijn": {
@@ -136,7 +151,10 @@ full example of `player1.txt`:
       "played_cards": [],
       "slag": 0
     }
-  },
+  },   
+```
+Current player order and the cards that are played already (in this example, the game just began).
+```
   "round_log": [
     {
       "no": 1,
@@ -209,4 +227,5 @@ full example of `player1.txt`:
   "set_nr": 1
 }
 ```
+Turn-by-turn log of the game so far.
 
