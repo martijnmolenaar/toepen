@@ -50,7 +50,7 @@ This file is formatted in JSON-style and contains info about the available turn-
 The called program should return the same file, with `choices` set to the proposed gameplay choice. 
 As an example program, `randomAI.r` was added to illustrate this.
 
-### full example of `player1.txt`:
+### full example of `player2.txt` with explanation:
 
 ```
 {
