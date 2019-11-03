@@ -1,9 +1,9 @@
 options(stringsAsFactors = FALSE)
 
-invisible(sapply(c('toepen_functions.R', 'toepen_alternative_play.r'), source))
+invisible(sapply(c('R/toepen_functions.R', 'R/toepen_alternative_play.r'), source))
 library(jsonlite)
 
-time_delay <- 0.05  #1.5 ### seconds
+time_delay <- 1  #0.05  #1.5 ### seconds
 max_points <- 15
 
 #########
@@ -11,10 +11,11 @@ max_points <- 15
 game <- initializeGame(numberOfPlayers = 3,  player_names = c("Martijn", "Wouter","Ralph"),
                        gamePlay = c("random_open", 
                                     #"manual",
-                                    #"Rscript randomAI.r -f player2.txt",
+                                    "Rscript './random AI/randomAI.r' -f player2.txt",
                                     #"Rscript randomAI.r -f player3.txt"))
-                                    "random_open", 
+                                    #"random_open", 
                                     "random_open"))
+
 
 
 # gamePlay = c("random_open", "random", "manual", {shell command})
@@ -68,7 +69,7 @@ while(any(sapply(givePlayerOrder(game), function(i){ game$player_cards[[i]]$play
     
     
   } else {       
-    ## player don't want to change, so want to play with this hand
+    ## player doesn't want to change, so wants to play with this hand
     game$player_cards[[player_i]]$play_with_this_hand <- 1
   } 
   
